@@ -25,7 +25,7 @@ We used [Stable Diffusion](https://github.com/CompVis/stable-diffusion) in our e
 Here are some comparisons with baselines. 
 
 <div align=center>
-    <img src="docs/comparison.png" align="middle" width=780>
+    <img src="docs/comparisons.png" align="middle" width=780>
 </div>
 
 
